@@ -123,4 +123,13 @@ h1, h2 {
 	font-family: 'Roboto Mono', monospace;
 }
 
+.domTag{
+	position: absolute;
+	bottom: 0%;
+}
+
+.dreadlogo{
+	width: 4.2em;
+}
+
 /*# sourceMappingURL=main.css.map */
